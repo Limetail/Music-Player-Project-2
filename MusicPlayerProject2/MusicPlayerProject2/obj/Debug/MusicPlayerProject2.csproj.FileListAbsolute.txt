@@ -1,0 +1,15 @@
+C:\Users\limet\source\repos\MusicPlayerProject2\MusicPlayerProject2\bin\Debug\MusicPlayerProject2.exe.config
+C:\Users\limet\source\repos\MusicPlayerProject2\MusicPlayerProject2\bin\Debug\MusicPlayerProject2.exe
+C:\Users\limet\source\repos\MusicPlayerProject2\MusicPlayerProject2\bin\Debug\MusicPlayerProject2.pdb
+C:\Users\limet\source\repos\MusicPlayerProject2\MusicPlayerProject2\bin\Debug\Interop.WMPLib.dll
+C:\Users\limet\source\repos\MusicPlayerProject2\MusicPlayerProject2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\limet\source\repos\MusicPlayerProject2\MusicPlayerProject2\obj\Debug\MusicPlayerProject2.csprojAssemblyReference.cache
+C:\Users\limet\source\repos\MusicPlayerProject2\MusicPlayerProject2\obj\Debug\Interop.WMPLib.dll
+C:\Users\limet\source\repos\MusicPlayerProject2\MusicPlayerProject2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\limet\source\repos\MusicPlayerProject2\MusicPlayerProject2\obj\Debug\MusicPlayerProject2.csproj.ResolveComReference.cache
+C:\Users\limet\source\repos\MusicPlayerProject2\MusicPlayerProject2\obj\Debug\MusicPlayerProject2.Form1.resources
+C:\Users\limet\source\repos\MusicPlayerProject2\MusicPlayerProject2\obj\Debug\MusicPlayerProject2.Properties.Resources.resources
+C:\Users\limet\source\repos\MusicPlayerProject2\MusicPlayerProject2\obj\Debug\MusicPlayerProject2.csproj.GenerateResource.cache
+C:\Users\limet\source\repos\MusicPlayerProject2\MusicPlayerProject2\obj\Debug\MusicPlayerProject2.csproj.CoreCompileInputs.cache
+C:\Users\limet\source\repos\MusicPlayerProject2\MusicPlayerProject2\obj\Debug\MusicPlayerProject2.exe
+C:\Users\limet\source\repos\MusicPlayerProject2\MusicPlayerProject2\obj\Debug\MusicPlayerProject2.pdb
